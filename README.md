@@ -1,2 +1,1 @@
-# -Cricket-Data-Analytics-Python-Project-
-Cricket Data Analytics Project Using Web Scraping, Python, Pandas and Power BI
+I have used cricket T20 world cup (2022) data to build insights on a best 11 players . I have used bright data web scraping to collect data from ESPN_CRIC_INFO website then I performed some data transformation and cleaning in pandas, followed by building dashboards in power bi.
